@@ -1,8 +1,10 @@
 # The LDT Corpus #
 
+### About the LDT Corpus ###
+
 This is the Longitudinal Digital Terms Corpus (LDT Corpus), a curated collection of terms of use (TOUs) documents from fifty digital platforms. The LDT Corpus contains all of the available TOUs for each of the fifty platforms, beginning when the website or application was released and continuing through 2025.
 
-### About the LDT Corpus ###
+A paper introducing the LDT Corpus in detail is forthcoming at the _Journal of Empirical Legal Studies_: Samples, T., Ireland, K., and Beelen, K. 2026. "Introducing a New Longitudinal Corpus of Digital Contracts, 1999-2025." Journal of Empirical Legal Studies (forthcoming), which is available on SSRN [here](url).
 
 Number of TOUs: 861
 
@@ -10,7 +12,7 @@ Platforms: Amazon, Bumble, Canva, CapCut, ChatGPT, Claude, Discord, eBay, FaceAp
 
 Time series: 1999-2025
 
-Metadata: TBD
+Metadata: effective date, platform, category
 
 Project website: TBD
 
