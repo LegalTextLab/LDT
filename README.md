@@ -16,7 +16,7 @@ Project website: TBD
 
 ### Dataset Paper ###
 
-A paper introducing the LDT Corpus in detail is forthcoming at the _Journal of Empirical Legal Studies_: Samples, T., Ireland, K., and Beelen, K. 2026. "Introducing a New Longitudinal Corpus of Digital Contracts, 1999-2025." Journal of Empirical Legal Studies (forthcoming), which is available on [SSRN]([[url](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6719458)].
+A paper introducing the LDT Corpus in detail is forthcoming at the _Journal of Empirical Legal Studies_: Samples, T., Ireland, K., and Beelen, K. 2026. "Introducing a New Longitudinal Corpus of Digital Contracts, 1999-2025." Journal of Empirical Legal Studies (forthcoming), which is available on ([[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6719458)].
 
 ### Using the LDT Corpus ###
 
