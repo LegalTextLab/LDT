@@ -1,8 +1,8 @@
 # The LDT Corpus #
 
-### About the LDT Corpus ###
+### About the LDT Corpus (v1) ###
 
-This is the Longitudinal Digital Terms Corpus (LDT Corpus), a curated collection of terms of use (TOUs) documents from fifty digital platforms. The LDT Corpus contains all of the available TOUs for each of the fifty platforms, beginning when the website or application was released and continuing through 2025.
+This is the first version of the Longitudinal Digital Terms Corpus (LDT Corpus), a curated collection of terms of use (TOUs) documents from fifty digital platforms. The LDT Corpus contains all of the available TOUs for each of the fifty platforms, beginning when the website or application was released and continuing through 2025.
 
 Number of TOUs: 861
 
