@@ -10,8 +10,6 @@ Platforms: Amazon, Bumble, Canva, CapCut, ChatGPT, Claude, Discord, eBay, FaceAp
 
 Time series: 1999-2025
 
-Metadata: effective date, platform, category
-
 Project website: TBD
 
 ### Dataset Paper ###
