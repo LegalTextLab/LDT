@@ -10,7 +10,7 @@ Platforms: Amazon, Bumble, Canva, CapCut, ChatGPT, Claude, Discord, eBay, FaceAp
 
 Time series: 1999-2025
 
-Project website: TBD
+Project website: Coming soon!
 
 ### Dataset Paper ###
 
@@ -24,7 +24,7 @@ The LDT Corpus is available under the [Open Data Commons Attribution](https://op
 
 ### Corpus Documentation ###
 
-TBD
+Coming soon!
 
 ### Corpus-Level Metadata ###
 | Application | Number of<br>TOUs | Application<br>Release | TOU Range | Updates<br>per Year | Category |
