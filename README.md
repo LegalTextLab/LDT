@@ -25,3 +25,11 @@ The LDT Corpus is available under the [Open Data Commons Attribution](https://op
 ### Corpus Documentation ###
 
 TBD
+
+### Corpus-Level Metadata ###
+
+| Application | Number of TOUs | Application Release | TOU Range | Updates per Year | Category |
+| -------- | -------- | -------- | | -------- | -------- | -------- |
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 | | Row 1, Col 4 | Row 1, Col 5 | Row 1, Col 6 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 | | Row 2, Col 4 | Row 2, Col 5 | Row 2, Col 6 |
+
