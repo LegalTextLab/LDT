@@ -27,7 +27,7 @@ The LDT Corpus is available under the [Open Data Commons Attribution](https://op
 TBD
 
 ### Corpus-Level Metadata ###
-| Application | Number of TOUs | Application Release | TOU Range | Updates per Year | Category |
+| Application | Number of<br>TOUs | Application<br>Release | TOU Range | Updates<br>per Year | Category |
 | --- | --- | --- | --- | --- | --- |
 | Amazon | 30 | 1995 | 2000-25 | 1.2 | eCommerce |
 | Bumble | 15 | 2014 | 2014-25 | 1.36 | Dating |
