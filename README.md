@@ -22,7 +22,7 @@ We welcome you to use the data. If you do, please: (1) consult the corpus docume
 
 The LDT Corpus is available under the [Open Data Commons Attribution](https://opendatacommons.org/licenses/by/1-0/) License (which essentially means what we say above: please use it, but reference us).
 
-### Corpus Documentation ###
+### Other Documentation and Code ###
 
 Coming soon!
 
